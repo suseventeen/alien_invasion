@@ -1,0 +1,3 @@
+# alien_invasion
+python练习外星人游戏项目
+利用pygame完成的一个简单的游戏项目
